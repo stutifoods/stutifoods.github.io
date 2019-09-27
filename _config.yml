@@ -2,16 +2,16 @@
 title: Stuti Foods
 subtitle:
 email: stutifoods.ecs@gmail.com
-description: Khakhra & Namkeen Snacks | ખાખરા અને નમકીન 
+description: Khakhra & Namkeen | ખાખરા અને નમકીન 
 baseurl: # "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 2-3-4 Denap Estate, Behind Navjivan Hyundai Service Center, Opp Khatodra Police Chowki, Udhna
+city: Surat
+state: GJ
+zip_code: 395002
+country: India
+phone: +91 982 512 8761
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
